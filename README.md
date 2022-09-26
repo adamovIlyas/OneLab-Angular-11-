@@ -57,7 +57,7 @@
   - 5.1 Использование диаграмм для тестирования потоков
   - 5.2 TestScheduler и его применение
 
-## Неделя 3 -8  Angular, NgRx, Монорепозитории NX.
+## Неделя 3-8  Angular, NgRx, Монорепозитории NX.
 ![](https://images.indepth.dev/images/2021/05/Bindon_-lesser-known-Angular-template-features.jpg)
 
 ## 1 Старт:
