@@ -57,3 +57,4 @@ RXJS - "Более мощная альтернатива промисам" в о
   - 5.1 Использование диаграмм для тестирования потоков
   - 5.2 TestScheduler и его применение
 
+![](https://images.indepth.dev/images/2021/05/Bindon_-lesser-known-Angular-template-features.jpg)
