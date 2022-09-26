@@ -20,7 +20,7 @@
 | 16   | Class implements Interface. Extends vs Implements.                           |    
 | 17   | Generics. Generics в Interface. Generics — Расширение типов. Type guards     |
 | 18   | Utility types: Omit, Pick, Array, Partial, Required, Record.                 |
-
+| 19   | Функции. Перегрузка функций.                                                 |
 
 
 | №    | Тема урока                                                   | 
