@@ -15,7 +15,7 @@
 | 11   | Interface.                                                                   |
 | 12   | Динамический тип.                                                            |
 | 13   | readonly Interface.                                                          |
-| 14   | Classes. Теория классов и прототипного наследования. Описание типов в классе.| 
+| 14   | Classes. Теория классов и прототипного наследования. Описание типов в классе. Абстрактные классы| 
 | 15   | Public, private, protected.                                                  |
 | 16   | Class implements Interface. Extends vs Implements.                           |    
 | 17   | Generics. Generics в Interface. Generics — Расширение типов. Type guards     |
