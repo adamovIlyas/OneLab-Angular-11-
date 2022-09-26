@@ -18,3 +18,21 @@
 | 14   | Webpack: создание простого сборщика                          |
 | 15   | Angular material                                             |
 | 16   | Авторизация: jwt, oauth2                                     |
+
+![](https://raw.githubusercontent.com/remojansen/logo.ts/master/stickers/Screen%20Shot%202016-03-31%20at%2000.05.02.png)
+
+| №    | TypeScript                                                           | 
+| ---- | ------------------------------------------------------------         |
+| 1    | Введение. Зачем нужен TypeScript. Устанавливаем TypeScript.          |         
+| 2    | tsconfig — краткий обзор.                                            |
+| 3    | Примитивные типы. Отличия null & undefined.    Объектные типы.       |                                   
+| 6    | Массивы.                                                             |
+| 7    | Кортежи (Tuples)                                                     | 
+| 8    | Any, Unknown, Void                                                   |
+| 9    | Литеральные типы & Types                                             |
+| 10   | Enums                                                                |
+| 11   | Interface                                                            |
+| 12   | Динамический тип.                                                    |
+| 13   | readonly Interface                                                   |
+| 14   | Теория классов и прототипного наследования. Описание типов в классе. |                                        |
+
