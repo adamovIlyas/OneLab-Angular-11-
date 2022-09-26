@@ -21,7 +21,8 @@
 | 17   | Generics. Generics в Interface. Generics — Расширение типов. Type guards     |
 | 18   | Utility types: Omit, Pick, Array, Partial, Required, Record.                 |
 | 19   | Функции. Перегрузка функций.                                                 |
-
+| 20   | Декораторы                                                                   |
+| 21   | Namespaces                                                                   |
 
 | №    | Тема урока                                                   | 
 | ---- | ------------------------------------------------------------ |
