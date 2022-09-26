@@ -1,5 +1,5 @@
 # OneLab Angular 11 поток
-
+## Неделя 1 TypeScript
 ![](https://raw.githubusercontent.com/remojansen/logo.ts/master/stickers/Screen%20Shot%202016-03-31%20at%2000.05.02.png)
 
 | №    | TypeScript                                                                   | 
@@ -24,7 +24,7 @@
 | 20   | Декораторы                                                                   |
 | 21   | Namespaces                                                                   |
 
-
+## Неделя 2 RxJS
 ![](https://habrastorage.org/getpro/habr/post_images/e85/553/cfd/e85553cfdb8db819c496c7d6ae9dad2b.png)
 
 ## RXJS - "Более мощная альтернатива промисам" в одном лице. Библиотека для реактивного программирования, которая позволит удобно организовать работу с событиями и асинхронным кодом, писать сложную логику декларативно. RxJS активно используется в фреймворке Angular.
@@ -57,8 +57,8 @@
   - 5.1 Использование диаграмм для тестирования потоков
   - 5.2 TestScheduler и его применение
 
+## Неделя 3 -8  Angular, NgRx, Монорепозитории NX.
 ![](https://images.indepth.dev/images/2021/05/Bindon_-lesser-known-Angular-template-features.jpg)
-
 
 ## 1 Старт:
   - Вводное занятие. Как развернуть приложение на Angular
@@ -98,3 +98,6 @@
  - Использование FormGroup и FormArray.
  - FormBuilder для быстрого создания сложных форм.
  - Создаем свой элемент формы.
+## 7 NgRx? 
+ - NGRX(Store, Effects)
+ - NGRX(Entity)
