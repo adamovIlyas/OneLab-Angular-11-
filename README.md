@@ -16,7 +16,7 @@
 | 12   | Динамический тип.                                                            |
 | 13   | readonly Interface.                                                          |
 | 14   | Classes. Теория классов и прототипного наследования. Описание типов в классе. Абстрактные классы| 
-| 15   | Public, private, protected.                                                  |
+| 15   | Модификаторы полей. public, private, protected.                                                  |
 | 16   | Class implements Interface. Extends vs Implements.                           |    
 | 17   | Generics. Generics в Interface. Generics — Расширение типов. Type guards     |
 | 18   | Utility types: Omit, Pick, Array, Partial, Required, Record.                 |
